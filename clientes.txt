@@ -1,0 +1,16 @@
+1, José Alysson, Rua José Geraldo, 81992214452,2
+2, Matheus, Rua Estelina, 891238912,1
+3, Marluce, Rua Matriz, 8218931122,1
+4, Soraia, Rua José de Creuza, 819829131,3
+5, Jorge Santana, Rua Eutropia Farias, 819299122,1
+6, Carlos Madero,Rua Jinx, 81902138922,2
+8, Matias Faccao,Rua Antonio Medeiros, 12839128931,3
+9, Jesus Miguel Alm. Hidalgo, Surubim, 829131421,1
+11, Yago, Rua Estella Mota, 81892312311,1
+12,Alysson, Rua Joao Queiroz, 8190231892,3
+13, José Paulo, Rua Dauri Rivas, 812893127312,1
+14, João Augusto, Rua Das Velhas, 82891892178,2
+15, Joca, Rua Joca Geraldo, 8192772780,3
+16,Joao Bob,Rua das Oliveras,815695231,1
+17, Fabiola Melo, Rua Iolanda Pereira, 818923611,1
+18,Alberto Morais, Rua Da Esperança 80,8190284422,1
